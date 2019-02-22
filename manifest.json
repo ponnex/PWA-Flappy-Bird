@@ -1,6 +1,6 @@
 {
   "name": "Flappy Bird",
-  "short_name": "flappy",
+  "short_name": "Flappy",
   "display": "standalone",
   "start_url": ".",
   "theme_color": "#4ec0ca",
