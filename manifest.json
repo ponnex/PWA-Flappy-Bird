@@ -3,8 +3,8 @@
   "short_name": "flappy",
   "display": "standalone",
   "start_url": ".",
-  "theme_color": "#673ab6",
-  "background_color": "#111111",
+  "theme_color": "#4ec0ca",
+  "background_color": "#ded895",
   "icons": [
     {
       "src": "flappy-bird-icon-png.png",
