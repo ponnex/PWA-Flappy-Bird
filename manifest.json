@@ -1,0 +1,15 @@
+{
+  "name": "Flappy Bird",
+  "short_name": "flappy",
+  "display": "standalone",
+  "start_url": ".",
+  "theme_color": "#4ec0ca",
+  "background_color": "#5EE270",
+  "icons": [
+    {
+      "src": "flappy-bird-icon-png.png",
+      "sizes": "300x300",
+      "type": "image/png"
+    }
+  ]
+}
