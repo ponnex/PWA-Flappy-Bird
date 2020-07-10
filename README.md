@@ -1,4 +1,4 @@
-Flappy Bird
+Flappy Bird (Progressive Web App)
 =========
 Progressive Web App Flappy Bird GDG DevFest '17
 
